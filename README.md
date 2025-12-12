@@ -2,6 +2,8 @@
 
 USB-Blitz es una aplicación gráfica intuitiva diseñada para grabar imágenes ISO en unidades USB. Ofrece una interfaz renovada y moderna, con soporte mejorado para arrastrar y soltar archivos, facilitando al máximo el proceso de creación de USB booteables.
 
+<img width="682" height="609" alt="usb_20251212_165249" src="https://github.com/user-attachments/assets/c40cb66b-3921-4f26-b59e-b8eaea983107" />
+
 ---
 
 ## 🚀 Características
