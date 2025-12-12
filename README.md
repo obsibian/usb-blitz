@@ -6,6 +6,7 @@ USB-Blitz es una aplicación gráfica intuitiva diseñada para grabar imágenes 
 
 ## 🚀 Características
 
+* Aplicacion diseñada para KDE Plasma 6 (qt).
 * Interfaz moderna y fácil de usar.
 * Soporte completo para arrastrar y soltar imágenes ISO.
 * Detección automática de unidades USB disponibles.
