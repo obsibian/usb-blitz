@@ -13,7 +13,7 @@ USB-Blitz es una aplicación gráfica intuitiva, diseñada para grabar imágenes
 * Soporte completo para arrastrar y soltar imágenes ISO.
 * Detección automática de unidades USB disponibles.
 * Progreso detallado del proceso de escritura.
-* Validación opcional de la imagen tras la grabación.
+* Verificación mejorada: SHA-256, un método mucho más seguro para garantizar la integridad de tus archivos ISO.
 
 ---
 
